@@ -1,0 +1,53 @@
+Question 1 :  Answer : a) In python  The '*' operator is  mutiplication operator which is used to perform multiplication operation of two interger or float values. As well as append string values.
+example :  1*2= 2 ; ineuron*3 =  ineuronineuronineuron
+
+b) 'hello'  is a type of string. string always tries to store a data in form of indexes for eg  name =  "Angaj" , name[0] = 'A' ,  name[1] = 'n' ...  name[4] = 'j'.  
+
+c) -87.8 is negative float number. 
+
+d) In Python '-'operator is  substraction operator which is used to perform subtraction between two numeric, float  operands.
+ 
+e) '/'  is a division operator which performs division of numbers of integer , float, And Imaginary. 
+ 
+f)  In Python '+'operator is  addition operator which is used to perform addition between two numeric, float, imaginary operandsAnd perform append operation on strings . 
+
+g) 6  is an integer. whose value is constant.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 2  :  Answer :  'Spam' is a string which is stored in a memory location which. it can be hold by/assigned to a variable. Spam is a varible whichs holds the data like string , integer , boolean , float, etc.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 3 : Answer :  Numeric , String, Boolean, Dictionaries.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 4 : ANswer : An expression is a combination of values, variables, operators, and calls to functions which performs opertaions when executed in python interpreter like 1+2 = 3 , a=3 , b=4 , a+b will give answer 7 when it gets executed in interpreter.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question 5:  ANswer :  declaration is creating a function / variable  that can be executed whenever called. And  expression is a function which is created using an expression inside it. which can hold adeclaration of a variable.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 6 : Answer : variable bacon contains intger 22 because the expression  is incomplete it is not  storing the new value of bacon . it must be bacon =  bacon+1 or bacon +=1.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 7 : Answer  : the output of the 'spam'+'spamspam' = 'spamspamspam' its appending. and 'spam'*3 =  'spamspamspam' its also appending as its string and interger. In pyton it performs apend operation the time equals to  input value.  like 'angaj'*2 = 'angajangaj'
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 8 : Answer :  eggs is a true variablr and 100 is not because as per the standards the variable can be a word but not number.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 9 : Answer : for interger : int()
+                      for float :  float()
+                      for string: str()
+                      
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ Question 10 : Answer  : TypeError: can only concatenate str (not "int") to str. If you want to correct it then must cast 99 to string by using str(99) 
+ 
+                          'I have eaten ' + str(99) + ' burritos.'
